@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "./static/js/main.89abfa83.js",
+    "static/media/Smile.svg": "./static/media/Smile.8c086e6a58f4144fd52769356b1352b1.svg",
+    "static/media/Foto1.svg": "./static/media/Foto1.92de55e6e132775fa888acf75741a9fe.svg",
+    "static/media/Login.svg": "./static/media/Login.08f2b5dc973a5fc24d2c821de345095c.svg",
+    "static/media/blockport.svg": "./static/media/blockport.6caba3ed0860eae3fac8644fdeca06fd.svg",
+    "static/media/Ourpartners.svg": "./static/media/Ourpartners.85172993111f3945bb6a56da193ed4f6.svg",
+    "static/media/binance.svg": "./static/media/binance.1a9f5c57dc9f65cffff64877fe468bd2.svg",
+    "static/media/coinbase.svg": "./static/media/coinbase.f51b97fcf919f17a85a89ef356680191.svg",
+    "static/media/bitmex.svg": "./static/media/bitmex.a16d098f0a4f529256fc630b5d997f59.svg",
+    "static/media/Stars.svg": "./static/media/Stars.0255d625a0fc6e28035d73b5a02c6ca2.svg",
+    "static/media/Star1.svg": "./static/media/Star1.6cceacd2c65eb7f4517bb817f55998d9.svg",
+    "index.html": "./index.html",
+    "static/media/Star2.svg": "./static/media/Star2.ccceb9d7043a88a0c59f6c7b64bf5c25.svg",
+    "main.89abfa83.js.map": "./static/js/main.89abfa83.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.89abfa83.js"
+  ]
+}
